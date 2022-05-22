@@ -11,6 +11,11 @@ int main()
     cin >> name;
     cout << "Hello " << name << endl;
 
+    int age;
+    cout << "What is your age? ";
+    cin >> age;
+    cout << "Your age is " << age << endl;
+
 
     return 0;
 }
